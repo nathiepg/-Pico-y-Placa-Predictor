@@ -3,7 +3,7 @@
 This program let you know if your car can get on the road.
 
 Instructions:
-1 Introduce your license plate number. Only the number.
+1 Introduce your license plate number. Only the number, not the letters.
 2 Introduce the date.
 3 Introduce the time.
 4 Click on "CONSULTAR"
